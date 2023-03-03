@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THCMaleesha
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on various programming languaes
 - 📫 How to reach me thcmaleesha@gmail.com
 
